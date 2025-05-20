@@ -1,7 +1,7 @@
 # 📊 Visualisation Power BI - Un système BI pour l’analyse des stocks
 
 ## 🎯 Objectif
-Visualiser et analyser les stocks à l’aide de rapports Power BI intégrés dans une interface ReactJS.
+Éclairer le décideur public sur l'état des ventes , des achats et des stocks.
 
 ---
 
